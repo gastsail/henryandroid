@@ -99,6 +99,7 @@ class Kotlin1 {
     }
 }
 
+// Puedes comentar con doble barra (//) las funciones que no quieras ejecutar para probar una a una
 fun main() {
     val ejercicios = Kotlin1()
     ejercicios.ejercicio1()
